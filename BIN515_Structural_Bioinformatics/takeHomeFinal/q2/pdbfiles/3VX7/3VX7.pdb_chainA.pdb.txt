@@ -1,0 +1,296 @@
+<!DOCTYPE html
+	PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">
+<head>
+<title>Welcome</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+</head>
+<body>
+<p><BODY bgColor=white>
+</p><p><meta name="Author" content="Surendra Negi">
+</p><p><meta name="Description" content="Solvent accessible surface area of molecule">
+</p><p><FONT face="courier, Arial, Helvetica, sans-serif" size=3> <font color="#000FFF">
+</p><p> <p align="center"><b>Query "107" for ssnegi@utmb.edu submitted to webserver. </b> 
+</p><p> <hr> </p><p> <b> </p>*********************Thanks for using Getarea*********************<td><pre> Probe radius  :  1.400</pre></td>
+<td><pre></pre></td>
+<td><pre>  Residue      Total   Apolar  Backbone Sidechain Ratio(%) In/Out</pre></td>
+<td><pre> MET      0   131.14    80.63    73.66    57.49     36.3      </pre></td>
+<td><pre> MET      1   178.99   176.33     6.99   172.00    100.0     o</pre></td>
+<td><pre> VAL      2    93.56    74.81    18.74    74.81     61.2     o</pre></td>
+<td><pre> SER      3    53.81    18.75     9.16    44.65     57.7     o</pre></td>
+<td><pre> ASP      4   106.61    26.32     4.17   102.44     90.7     o</pre></td>
+<td><pre> LEU      5    11.94     0.24    11.70     0.24      0.2     i</pre></td>
+<td><pre> LYS      6   109.20    80.19     6.93   102.27     62.2     o</pre></td>
+<td><pre> PHE      7    44.27    17.45    26.82    17.45      9.7     i</pre></td>
+<td><pre> ALA      8     2.02     2.02     2.02     0.00      0.0     i</pre></td>
+<td><pre> PRO      9    97.37    97.37     7.83    89.53     85.1     o</pre></td>
+<td><pre> SER     10     5.95     3.71     1.87     4.08      5.3     i</pre></td>
+<td><pre> PHE     11    13.23     5.55     7.68     5.55      3.1     i</pre></td>
+<td><pre> GLN     12    52.09    18.66     0.25    51.84     36.1      </pre></td>
+<td><pre> SER     13     3.15     0.00     3.15     0.00      0.0     i</pre></td>
+<td><pre> PHE     14    98.88    95.51    11.41    87.46     48.6      </pre></td>
+<td><pre> VAL     15    17.05     4.57    12.65     4.40      3.6     i</pre></td>
+<td><pre> ASP     16    72.37    20.59    14.04    58.33     51.6     o</pre></td>
+<td><pre> SER     17    40.27    37.68     2.32    37.95     49.0      </pre></td>
+<td><pre> SER     18    34.21    32.11     3.22    30.99     40.0      </pre></td>
+<td><pre> PHE     19     0.00     0.00     0.00     0.00      0.0     i</pre></td>
+<td><pre> PHE     20     0.10     0.10     0.00     0.10      0.1     i</pre></td>
+<td><pre> HIS     21    75.10    60.17     2.65    72.45     46.9      </pre></td>
+<td><pre> GLU     22    19.16     2.00     0.13    19.03     13.5     i</pre></td>
+<td><pre> LEU     23    12.89    12.65     0.24    12.65      8.7     i</pre></td>
+<td><pre> SER     24    10.75    10.75     0.00    10.75     13.9     i</pre></td>
+<td><pre> ARG     25   148.66    83.15    18.43   130.23     66.6     o</pre></td>
+<td><pre> LEU     26    82.84    71.29    11.92    70.92     48.5      </pre></td>
+<td><pre> LYS     27   100.24    56.48    31.35    68.89     41.9      </pre></td>
+<td><pre> LEU     28   126.83   109.33    26.81   100.02     68.4     o</pre></td>
+<td><pre> ASP     29   136.42    88.36    87.64    48.78     43.2      </pre></td>
+<td><pre> GLU     37   167.80    42.79    74.53    93.27     66.1     o</pre></td>
+<td><pre> LYS     38   105.86    79.15     1.36   104.50     63.5     o</pre></td>
+<td><pre> ALA     39    15.70    15.26     0.51    15.19     23.4      </pre></td>
+<td><pre> LEU     40     0.00     0.00     0.00     0.00      0.0     i</pre></td>
+<td><pre> TYR     41    51.27    20.50     2.16    49.11     25.4      </pre></td>
+<td><pre> THR     42    13.68    11.63    10.40     3.28      3.1     i</pre></td>
+<td><pre> GLN     43    94.30    27.58    16.85    77.45     53.9     o</pre></td>
+<td><pre> LEU     44     9.85     0.91     9.78     0.07      0.0     i</pre></td>
+<td><pre> ASP     45    65.44    37.36     7.78    57.66     51.0     o</pre></td>
+<td><pre> LEU     46    32.00    28.53     3.48    28.51     19.5     i</pre></td>
+<td><pre> ASN     47   123.94    31.93    18.59   105.35     92.2     o</pre></td>
+<td><pre> GLN     48   129.75    41.21    10.89   118.85     82.7     o</pre></td>
+<td><pre> PHE     49    21.13     4.17    17.21     3.92      2.2     i</pre></td>
+<td><pre> THR     50    49.11    26.05     8.75    40.36     38.0      </pre></td>
+<td><pre> SER     51    88.69    39.02    36.03    52.66     68.0     o</pre></td>
+<td><pre> ASN     52    62.69     2.13     3.30    59.39     52.0     o</pre></td>
+<td><pre> VAL     53     8.61     8.61     0.00     8.61      7.0     i</pre></td>
+<td><pre> LEU     54     0.00     0.00     0.00     0.00      0.0     i</pre></td>
+<td><pre> ALA     55    15.74    12.68     3.06    12.68     19.5     i</pre></td>
+<td><pre> ILE     56     0.04     0.04     0.04     0.00      0.0     i</pre></td>
+<td><pre> SER     57    41.20    23.25     2.70    38.50     49.7      </pre></td>
+<td><pre> LEU     58     0.29     0.04     0.29     0.00      0.0     i</pre></td>
+<td><pre> ARG     59   145.79    54.06     0.08   145.71     74.5     o</pre></td>
+<td><pre> ASP     60    45.58     6.82     0.01    45.57     40.3      </pre></td>
+<td><pre> ASP     61    91.03    44.40    11.63    79.40     70.3     o</pre></td>
+<td><pre> SER     62     5.44     2.18     2.18     3.26      4.2     i</pre></td>
+<td><pre> PHE     63    28.06    14.11    13.95    14.11      7.8     i</pre></td>
+<td><pre> GLN     64    71.36    63.67    12.33    59.03     41.1      </pre></td>
+<td><pre> LYS     65    62.00    35.94    26.07    35.94     21.8      </pre></td>
+<td><pre> PRO     66   108.92    79.68    43.71    65.22     62.0     o</pre></td>
+<td><pre> ASP     67    59.92    43.74    29.83    30.08     26.6      </pre></td>
+<td><pre> ASN     68   157.01   113.00    80.21    76.80     67.2     o</pre></td>
+<td><pre> HIS     71   198.84   131.84    61.62   137.22     88.8     o</pre></td>
+<td><pre> ASN     72    54.75     9.69     4.85    49.90     43.7      </pre></td>
+<td><pre> ILE     73    28.30    26.98     1.75    26.55     18.0     i</pre></td>
+<td><pre> ILE     74    46.31    21.14    25.17    21.14     14.4     i</pre></td>
+<td><pre> LEU     75    10.11    10.11     2.00     8.10      5.5     i</pre></td>
+<td><pre> LYS     76    48.25    42.44     5.82    42.44     25.8      </pre></td>
+<td><pre> GLY     77     0.00     0.00     0.00     0.00      0.0     i</pre></td>
+<td><pre> TYR     78   112.27    78.35     1.61   110.66     57.3     o</pre></td>
+<td><pre> LEU     79     4.17     4.02     0.99     3.19      2.2     i</pre></td>
+<td><pre> LEU     80    37.85    37.81     0.21    37.65     25.8      </pre></td>
+<td><pre> ASN     81    49.06    26.13    22.41    26.65     23.3      </pre></td>
+<td><pre> PHE     82    34.16    31.20     6.72    27.44     15.2     i</pre></td>
+<td><pre> ASN     83   111.97    22.61    19.87    92.09     80.6     o</pre></td>
+<td><pre> THR     84    57.92    57.35     0.67    57.25     53.9     o</pre></td>
+<td><pre> ILE     85    64.25    64.20     0.06    64.20     43.6      </pre></td>
+<td><pre> GLU     86    98.60    51.56     0.02    98.59     69.8     o</pre></td>
+<td><pre> LEU     87    98.64    97.20     5.84    92.79     63.5     o</pre></td>
+<td><pre> PHE     88    10.22     6.91     3.31     6.91      3.8     i</pre></td>
+<td><pre> LYS     89   158.14    95.98    28.37   129.77     78.9     o</pre></td>
+<td><pre> ASN     90   104.53    36.34    22.66    81.87     71.6     o</pre></td>
+<td><pre> CYS     91    53.11    21.41    27.46    25.65     25.1      </pre></td>
+<td><pre> ASN     92    98.36    30.44    15.06    83.30     72.9     o</pre></td>
+<td><pre> LYS     93    13.58    12.87     0.96    12.63      7.7     i</pre></td>
+<td><pre> ILE     94   123.61   122.49     1.12   122.48     83.2     o</pre></td>
+<td><pre> GLN     95   113.51    39.85     4.78   108.74     75.7     o</pre></td>
+<td><pre> PHE     96    45.71    44.64     9.34    36.37     20.2      </pre></td>
+<td><pre> ILE     97     0.97     0.97     0.00     0.97      0.7     i</pre></td>
+<td><pre> LYS     98    32.07    32.07     0.04    32.03     19.5     i</pre></td>
+<td><pre> GLU     99   100.28    39.78     6.33    93.95     66.5     o</pre></td>
+<td><pre> LYS    100     9.53     9.53     5.93     3.60      2.2     i</pre></td>
+<td><pre> GLY    101     0.00     0.00     0.00     0.00      0.0     i</pre></td>
+<td><pre> GLN    102    91.24    22.98     0.23    91.01     63.3     o</pre></td>
+<td><pre> GLU    103    99.45    37.50     7.93    91.52     64.8     o</pre></td>
+<td><pre> LEU    104     6.01     6.01     0.00     6.01      4.1     i</pre></td>
+<td><pre> LEU    105    12.56    12.56     0.00    12.56      8.6     i</pre></td>
+<td><pre> GLN    106    97.35    28.36     0.01    97.34     67.7     o</pre></td>
+<td><pre> ARG    107    85.95    30.68     3.68    82.27     42.1      </pre></td>
+<td><pre> GLY    108     0.00     0.00     0.00     0.00      0.0     i</pre></td>
+<td><pre> LEU    109    51.17    46.04     5.13    46.04     31.5      </pre></td>
+<td><pre> GLU    110   117.57    36.90    23.71    93.85     66.5     o</pre></td>
+<td><pre> ASN    111    60.21    17.77    11.27    48.94     42.8      </pre></td>
+<td><pre> ASP    112    24.32    17.08     0.00    24.32     21.5      </pre></td>
+<td><pre> LEU    113     0.00     0.00     0.00     0.00      0.0     i</pre></td>
+<td><pre> ASN    114    28.54    21.60     4.36    24.18     21.2      </pre></td>
+<td><pre> GLU    115    62.59    33.11    12.79    49.80     35.3      </pre></td>
+<td><pre> ILE    116     0.03     0.00     0.03     0.00      0.0     i</pre></td>
+<td><pre> ILE    117     8.26     0.14     8.24     0.02      0.0     i</pre></td>
+<td><pre> SER    118     7.75     7.56     0.19     7.56      9.8     i</pre></td>
+<td><pre> PHE    119     0.00     0.00     0.00     0.00      0.0     i</pre></td>
+<td><pre> TYR    120    19.77    14.98     0.00    19.77     10.2     i</pre></td>
+<td><pre> MET    121     0.40     0.00     0.40     0.00      0.0     i</pre></td>
+<td><pre> ILE    122     4.73     4.73     0.00     4.73      3.2     i</pre></td>
+<td><pre> SER    123     0.08     0.08     0.00     0.08      0.1     i</pre></td>
+<td><pre> PHE    124    18.46    18.45     0.05    18.41     10.2     i</pre></td>
+<td><pre> ALA    125     6.73     0.36     6.49     0.24      0.4     i</pre></td>
+<td><pre> ASP    126    25.27     5.39     3.03    22.24     19.7     i</pre></td>
+<td><pre> LEU    127    65.34    55.64     9.70    55.64     38.1      </pre></td>
+<td><pre> LYS    128    97.86    69.19    45.65    52.20     31.7      </pre></td>
+<td><pre> LYS    129   147.93   102.36    10.65   137.28     83.5     o</pre></td>
+<td><pre> TYR    130    79.88    60.46     0.00    79.88     41.4      </pre></td>
+<td><pre> LYS    131    51.87    14.63     0.00    51.87     31.5      </pre></td>
+<td><pre> PHE    132     0.08     0.08     0.01     0.07      0.0     i</pre></td>
+<td><pre> TYR    133    53.04    35.21     0.09    52.95     27.4      </pre></td>
+<td><pre> TYR    134     9.58     1.56     0.00     9.58      5.0     i</pre></td>
+<td><pre> TRP    135    29.82    29.82     0.53    29.29     13.0     i</pre></td>
+<td><pre> ILE    136     0.36     0.14     0.22     0.14      0.1     i</pre></td>
+<td><pre> CYS    137     0.00     0.00     0.00     0.00      0.0     i</pre></td>
+<td><pre> MET    138     1.00     0.04     0.96     0.04      0.0     i</pre></td>
+<td><pre> PRO    139     0.34     0.13     0.22     0.13      0.1     i</pre></td>
+<td><pre> SER    140     1.89     0.94     0.94     0.94      1.2     i</pre></td>
+<td><pre> PHE    141     0.00     0.00     0.00     0.00      0.0     i</pre></td>
+<td><pre> GLN    142    25.19     3.51     0.00    25.19     17.5     i</pre></td>
+<td><pre> SER    143    16.05    10.54     0.08    15.97     20.6      </pre></td>
+<td><pre> ASP    144    48.73     2.79     1.55    47.18     41.8      </pre></td>
+<td><pre> GLY    145    46.56    45.41    46.56     0.00     53.4     o</pre></td>
+<td><pre> ALA    146     7.95     0.11     7.84     0.11      0.2     i</pre></td>
+<td><pre> THR    147    83.01    75.75     1.24    81.77     77.0     o</pre></td>
+<td><pre> TYR    148    14.62     6.17     7.28     7.34      3.8     i</pre></td>
+<td><pre> GLN    149    37.96     0.90     0.00    37.96     26.4      </pre></td>
+<td><pre> ILE    150     8.70     8.70     0.00     8.70      5.9     i</pre></td>
+<td><pre> ILE    151    52.75    49.66     3.08    49.66     33.7      </pre></td>
+<td><pre> SER    152    49.04    31.93     1.60    47.45     61.3     o</pre></td>
+<td><pre> SER    153    40.42     5.55    27.93    12.49     16.1     i</pre></td>
+<td><pre> LYS    154    67.31    67.25     6.98    60.33     36.7      </pre></td>
+<td><pre> VAL    155   128.88   109.21    19.69   109.19     89.3     o</pre></td>
+<td><pre> ILE    156    31.26    25.25    12.28    18.98     12.9     i</pre></td>
+<td><pre> ALA    157    61.22    59.23    10.07    51.15     78.8     o</pre></td>
+<td><pre> SER    158    42.73    32.56     4.61    38.12     49.3      </pre></td>
+<td><pre> ASP    159   145.39    40.44    31.80   113.58    100.0     o</pre></td>
+<td><pre> SER    160    30.08    30.07     8.53    21.55     27.8      </pre></td>
+<td><pre> ASP    161   124.44    45.45     6.75   117.70    100.0     o</pre></td>
+<td><pre> ILE    162    64.17    63.86     4.62    59.55     40.4      </pre></td>
+<td><pre> SER    163     3.50     1.46     1.46     2.04      2.6     i</pre></td>
+<td><pre> VAL    164    78.77    78.64     0.13    78.64     64.3     o</pre></td>
+<td><pre> SER    165    39.76    37.25    11.23    28.53     36.9      </pre></td>
+<td><pre> PHE    166     0.31     0.31     0.00     0.31      0.2     i</pre></td>
+<td><pre> ILE    167    96.14    85.88    10.50    85.65     58.1     o</pre></td>
+<td><pre> LYS    168    88.15    63.64    37.42    50.73     30.8      </pre></td>
+<td><pre> GLN    169    73.75    34.91    11.37    62.38     43.4      </pre></td>
+<td><pre> ASN    170    64.37    30.65     9.02    55.35     48.4      </pre></td>
+<td><pre> VAL    171    47.89    47.89     1.80    46.08     37.7      </pre></td>
+<td><pre> ILE    172     6.95     6.95     0.00     6.95      4.7     i</pre></td>
+<td><pre> ILE    173     0.34     0.00     0.34     0.00      0.0     i</pre></td>
+<td><pre> ALA    174     0.01     0.01     0.00     0.01      0.0     i</pre></td>
+<td><pre> CYS    175     0.00     0.00     0.00     0.00      0.0     i</pre></td>
+<td><pre> VAL    176     4.00     4.00     0.00     4.00      3.3     i</pre></td>
+<td><pre> ILE    177    39.31    38.74     2.13    37.18     25.2      </pre></td>
+<td><pre> SER    178   104.86    51.62    47.97    56.90     73.5     o</pre></td>
+<td><pre> GLY    179    42.37    26.81    42.37     0.00     48.6      </pre></td>
+<td><pre> VAL    180    87.14    87.14     3.42    83.71     68.4     o</pre></td>
+<td><pre> ILE    181    14.52     7.56     7.20     7.33      5.0     i</pre></td>
+<td><pre> GLN    182    82.51    36.32     3.45    79.06     55.0     o</pre></td>
+<td><pre> LYS    183    53.39    50.32     7.10    46.29     28.1      </pre></td>
+<td><pre> ALA    184     0.00     0.00     0.00     0.00      0.0     i</pre></td>
+<td><pre> THR    185    46.88    42.88     0.00    46.88     44.1      </pre></td>
+<td><pre> PRO    186    22.58    22.58     0.00    22.58     21.5      </pre></td>
+<td><pre> ASP    187   111.06    35.12     7.16   103.90     91.9     o</pre></td>
+<td><pre> ASN    188    17.53    17.53     6.47    11.06      9.7     i</pre></td>
+<td><pre> LEU    189     0.00     0.00     0.00     0.00      0.0     i</pre></td>
+<td><pre> LYS    190   100.57    46.24    17.82    82.75     50.3     o</pre></td>
+<td><pre> VAL    191   111.61    96.83    24.85    86.76     70.9     o</pre></td>
+<td><pre> CYS    192     0.60     0.01     0.60     0.00      0.0     i</pre></td>
+<td><pre> GLU    193   102.14    48.89    22.39    79.76     56.5     o</pre></td>
+<td><pre> LYS    194    34.66    11.28     0.00    34.66     21.1      </pre></td>
+<td><pre> VAL    195     0.00     0.00     0.00     0.00      0.0     i</pre></td>
+<td><pre> VAL    196     4.62     4.62     0.00     4.62      3.8     i</pre></td>
+<td><pre> PHE    197     0.00     0.00     0.00     0.00      0.0     i</pre></td>
+<td><pre> LYS    198    17.88    17.85     0.38    17.51     10.6     i</pre></td>
+<td><pre> ASP    199     2.28     0.00     2.28     0.00      0.0     i</pre></td>
+<td><pre> PHE    200     0.00     0.00     0.00     0.00      0.0     i</pre></td>
+<td><pre> SER    201     0.00     0.00     0.00     0.00      0.0     i</pre></td>
+<td><pre> HIS    202    27.11    16.40     8.82    18.29     11.8     i</pre></td>
+<td><pre> LEU    203    62.62    62.62     4.28    58.34     39.9      </pre></td>
+<td><pre> LYS    204   162.51   111.85     7.14   155.36     94.4     o</pre></td>
+<td><pre> ASP    205    43.68    18.69     0.81    42.87     37.9      </pre></td>
+<td><pre> ILE    206    40.77    40.77     0.00    40.77     27.7      </pre></td>
+<td><pre> PRO    207     0.00     0.00     0.00     0.00      0.0     i</pre></td>
+<td><pre> SER    208     0.00     0.00     0.00     0.00      0.0     i</pre></td>
+<td><pre> ALA    209    17.66    17.66     0.00    17.66     27.2      </pre></td>
+<td><pre> VAL    210     0.00     0.00     0.00     0.00      0.0     i</pre></td>
+<td><pre> THR    211     0.00     0.00     0.00     0.00      0.0     i</pre></td>
+<td><pre> LYS    212    27.23     7.16     0.00    27.23     16.6     i</pre></td>
+<td><pre> ASN    213     0.00     0.00     0.00     0.00      0.0     i</pre></td>
+<td><pre> ILE    214     0.00     0.00     0.00     0.00      0.0     i</pre></td>
+<td><pre> LEU    215     0.00     0.00     0.00     0.00      0.0     i</pre></td>
+<td><pre> THR    216    22.34    20.99     6.27    16.06     15.1     i</pre></td>
+<td><pre> VAL    217     0.52     0.52     0.04     0.47      0.4     i</pre></td>
+<td><pre> TRP    218     0.25     0.25     0.00     0.25      0.1     i</pre></td>
+<td><pre> SER    219    18.14    17.81     0.35    17.79     23.0      </pre></td>
+<td><pre> LYS    220   158.96   100.74    21.37   137.59     83.6     o</pre></td>
+<td><pre> LEU    221    30.99    17.80    16.40    14.59     10.0     i</pre></td>
+<td><pre> SER    222    11.50     5.99     4.34     7.16      9.2     i</pre></td>
+<td><pre> PRO    223   114.16    96.80    17.57    96.59     91.8     o</pre></td>
+<td><pre> ARG    224    81.40    47.01    32.53    48.86     25.0      </pre></td>
+<td><pre> GLU    225   159.03    67.80    15.15   143.88    100.0     o</pre></td>
+<td><pre> THR    226    56.68    29.60     5.21    51.46     48.5      </pre></td>
+<td><pre> TYR    227     9.27     5.47     2.08     7.18      3.7     i</pre></td>
+<td><pre> THR    228    28.38    10.64     1.80    26.58     25.0      </pre></td>
+<td><pre> ILE    229     0.00     0.00     0.00     0.00      0.0     i</pre></td>
+<td><pre> CYS    230     4.51     0.86     0.00     4.51      4.4     i</pre></td>
+<td><pre> PHE    231     0.00     0.00     0.00     0.00      0.0     i</pre></td>
+<td><pre> LEU    232    11.43     9.49     1.94     9.49      6.5     i</pre></td>
+<td><pre> ARG    233    11.70     8.11    11.70     0.00      0.0     i</pre></td>
+<td><pre> SER    234    58.98    27.86    48.58    10.40     13.4     i</pre></td>
+<td><pre> ASP    235    68.91    16.71    26.24    42.67     37.8      </pre></td>
+<td><pre> GLU    236   163.91    68.53    17.36   146.55    100.0     o</pre></td>
+<td><pre> SER    237    25.50    23.91    13.30    12.20     15.8     i</pre></td>
+<td><pre> SER    238     4.53     3.49     0.85     3.68      4.8     i</pre></td>
+<td><pre> PHE    239     7.80     7.80     0.00     7.80      4.3     i</pre></td>
+<td><pre> GLU    240    41.84     2.64     0.65    41.19     29.2      </pre></td>
+<td><pre> ALA    241     1.36     1.36     1.36     0.00      0.0     i</pre></td>
+<td><pre> GLU    242    21.25    21.07     0.33    20.92     14.8     i</pre></td>
+<td><pre> ILE    243     0.00     0.00     0.00     0.00      0.0     i</pre></td>
+<td><pre> ILE    244    43.84    43.84     0.01    43.83     29.8      </pre></td>
+<td><pre> ILE    245    35.83    12.88    22.95    12.88      8.7     i</pre></td>
+<td><pre> ASN    246    47.13    29.58     7.00    40.13     35.1      </pre></td>
+<td><pre> ASN    247   120.51    27.41    33.56    86.95     76.1     o</pre></td>
+<td><pre> GLY    248    15.09     0.06    15.09     0.00     17.3     i</pre></td>
+<td><pre> ASN    249   140.26    49.18    29.98   110.28     96.5     o</pre></td>
+<td><pre> ASN    250    62.54    14.00    16.10    46.43     40.6      </pre></td>
+<td><pre> PRO    251   139.19   114.66    37.34   101.85     96.8     o</pre></td>
+<td><pre> SER    252    63.29    58.32    12.77    50.52     65.3     o</pre></td>
+<td><pre> LEU    253    37.88    18.04    19.96    17.92     12.3     i</pre></td>
+<td><pre> LYS    254   106.77    68.43     4.26   102.51     62.3     o</pre></td>
+<td><pre> VAL    255    16.13     2.65    15.93     0.20      0.2     i</pre></td>
+<td><pre> SER    256    71.91    64.99    10.09    61.83     79.9     o</pre></td>
+<td><pre> GLY    257    16.82    11.92    16.82     0.00     19.3     i</pre></td>
+<td><pre> TRP    258    26.50    11.92    14.58    11.92      5.3     i</pre></td>
+<td><pre> GLU    259    16.00    11.19     7.49     8.51      6.0     i</pre></td>
+<td><pre> LYS    260   122.22    67.72    14.04   108.18     65.8     o</pre></td>
+<td><pre> ASN    261    10.70     3.79     2.23     8.47      7.4     i</pre></td>
+<td><pre> GLY    262    81.41    50.68    81.41     0.00     93.4     o</pre></td>
+<td><pre> LEU    263   155.44   132.79    26.45   128.99     88.2     o</pre></td>
+<td><pre> GLY    264    42.22    33.80    42.22     0.00     48.4      </pre></td>
+<td><pre> LYS    265   144.88    99.92     9.41   135.47     82.4     o</pre></td>
+<td><pre> LEU    266    99.09    82.36    17.23    81.86     56.0     o</pre></td>
+<td><pre> ALA    267    36.39    36.39     1.19    35.21     54.3     o</pre></td>
+<td><pre> PRO    268    38.87    32.03     6.90    31.98     30.4      </pre></td>
+<td><pre> LYS    269    49.66    36.42     6.71    42.95     26.1      </pre></td>
+<td><pre> SER    270    61.37    30.79    29.75    31.62     40.9      </pre></td>
+<td><pre> ILE    271    32.95    32.95     6.26    26.69     18.1     i</pre></td>
+<td><pre> ASP    272    78.61    28.42    19.88    58.73     52.0     o</pre></td>
+<td><pre> LEU    273    28.58    28.47     4.12    24.46     16.7     i</pre></td>
+<td><pre> SER    274    78.74    46.90    23.79    54.95     71.0     o</pre></td>
+<td><pre> SER    275   112.38    88.91    39.90    72.47     93.6     o</pre></td>
+<td><pre> LEU    276   108.05    77.49    57.74    50.31     34.4      </pre></td>
+<td><pre> ---------------------------------------------</pre></td>
+<td><pre> POLAR  area/energy         =         5179.80</pre></td>
+<td><pre> APOLAR area/energy         =         8221.15</pre></td>
+<td><pre> UNKNOW area/energy         =            0.00</pre></td>
+<td><pre> ---------------------------------------------</pre></td>
+<td><pre> Total  area/energy         =        13400.95</pre></td>
+<td><pre> ---------------------------------------------</pre></td>
+<td><pre> Number of surface atoms    =         1125</pre></td>
+<td><pre> Number of buried atoms     =          958</pre></td>
+<td><pre> Number of atoms with ASP=0 =            0</pre></td>
+*** Thanks for using Getarea. Please visit us again. http://curie.utmb.edu/*** 

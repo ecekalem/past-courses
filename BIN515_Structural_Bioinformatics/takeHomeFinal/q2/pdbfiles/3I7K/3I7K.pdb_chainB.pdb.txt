@@ -1,0 +1,42 @@
+<!DOCTYPE html
+	PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">
+<head>
+<title>Welcome</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+</head>
+<body>
+<p><BODY bgColor=white>
+</p><p><meta name="Author" content="Surendra Negi">
+</p><p><meta name="Description" content="Solvent accessible surface area of molecule">
+</p><p><FONT face="courier, Arial, Helvetica, sans-serif" size=3> <font color="#000FFF">
+</p><p> <p align="center"><b>Query "109" for ssnegi@utmb.edu submitted to webserver. </b> 
+</p><p> <hr> </p><p> <b> </p>*********************Thanks for using Getarea*********************<td><pre> Probe radius  :  1.400</pre></td>
+<td><pre></pre></td>
+<td><pre>  Residue      Total   Apolar  Backbone Sidechain Ratio(%) In/Out</pre></td>
+<td><pre> ASN     86   140.72    50.79    58.50    82.21     71.9     o</pre></td>
+<td><pre> PHE     87   146.04   141.51    11.95   134.08     74.4     o</pre></td>
+<td><pre> VAL     88   112.52   109.35     4.36   108.16     88.4     o</pre></td>
+<td><pre> SER     89    57.30    42.98     0.56    56.75     73.3     o</pre></td>
+<td><pre> TRP     90   131.00   113.03     4.10   126.91     56.5     o</pre></td>
+<td><pre> HIS     91    73.51    63.55     0.00    73.51     47.5      </pre></td>
+<td><pre> ALA     92    59.57    58.77     4.59    54.98     84.7     o</pre></td>
+<td><pre> ASN     93    49.54     5.12     0.03    49.51     43.3      </pre></td>
+<td><pre> ARG     94   134.67    47.84    12.18   122.48     62.7     o</pre></td>
+<td><pre> GLN     95   140.00    35.09    37.68   102.32     71.2     o</pre></td>
+<td><pre> LEU     96   133.01   109.12    28.89   104.13     71.2     o</pre></td>
+<td><pre> GLY     97    47.31    43.63    47.31     0.00     54.3     o</pre></td>
+<td><pre> MET     98   170.17   165.32    10.01   160.16    100.0     o</pre></td>
+<td><pre> PRO     99   125.76    78.31    48.28    77.48     73.6     o</pre></td>
+<td><pre> ---------------------------------------------</pre></td>
+<td><pre> POLAR  area/energy         =          456.70</pre></td>
+<td><pre> APOLAR area/energy         =         1064.41</pre></td>
+<td><pre> UNKNOW area/energy         =            0.00</pre></td>
+<td><pre> ---------------------------------------------</pre></td>
+<td><pre> Total  area/energy         =         1521.11</pre></td>
+<td><pre> ---------------------------------------------</pre></td>
+<td><pre> Number of surface atoms    =           91</pre></td>
+<td><pre> Number of buried atoms     =           26</pre></td>
+<td><pre> Number of atoms with ASP=0 =            0</pre></td>
+*** Thanks for using Getarea. Please visit us again. http://curie.utmb.edu/*** 

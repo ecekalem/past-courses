@@ -1,0 +1,38 @@
+<!DOCTYPE html
+	PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">
+<head>
+<title>Welcome</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+</head>
+<body>
+<p><BODY bgColor=white>
+</p><p><meta name="Author" content="Surendra Negi">
+</p><p><meta name="Description" content="Solvent accessible surface area of molecule">
+</p><p><FONT face="courier, Arial, Helvetica, sans-serif" size=3> <font color="#000FFF">
+</p><p> <p align="center"><b>Query "104" for ssnegi@utmb.edu submitted to webserver. </b> 
+</p><p> <hr> </p><p> <b> </p>*********************Thanks for using Getarea*********************<td><pre> Probe radius  :  1.400</pre></td>
+<td><pre></pre></td>
+<td><pre>  Residue      Total   Apolar  Backbone Sidechain Ratio(%) In/Out</pre></td>
+<td><pre> THR      2   186.18    93.54    76.08   110.10    100.0     o</pre></td>
+<td><pre> ILE      3   173.85   154.16    25.81   148.04    100.0     o</pre></td>
+<td><pre> ASP      4   138.89    43.92    38.58   100.31     88.8     o</pre></td>
+<td><pre> ASP      6   176.20    56.70    53.25   122.95    100.0     o</pre></td>
+<td><pre> GLU      7   143.29    49.96    24.27   119.02     84.3     o</pre></td>
+<td><pre> TYR      8   207.56   152.15    30.10   177.46     91.9     o</pre></td>
+<td><pre> ARG      9   178.94    92.14    24.13   154.81     79.2     o</pre></td>
+<td><pre> ARG     11   171.55    94.79    42.09   129.46     66.2     o</pre></td>
+<td><pre> LYS     12   214.28   143.04    40.01   174.27    100.0     o</pre></td>
+<td><pre> THR     13   159.29   109.68    78.98    80.32     75.6     o</pre></td>
+<td><pre> ---------------------------------------------</pre></td>
+<td><pre> POLAR  area/energy         =          759.96</pre></td>
+<td><pre> APOLAR area/energy         =          990.06</pre></td>
+<td><pre> UNKNOW area/energy         =            0.00</pre></td>
+<td><pre> ---------------------------------------------</pre></td>
+<td><pre> Total  area/energy         =         1750.02</pre></td>
+<td><pre> ---------------------------------------------</pre></td>
+<td><pre> Number of surface atoms    =           85</pre></td>
+<td><pre> Number of buried atoms     =            5</pre></td>
+<td><pre> Number of atoms with ASP=0 =            0</pre></td>
+*** Thanks for using Getarea. Please visit us again. http://curie.utmb.edu/*** 
